@@ -1,0 +1,8 @@
+Gör en sida med react där det finns en drop down som ställer in kurser sen är det bara att räkna ihop värdena 
+
+Uppdateringar:
+
+1. Alternativ obligatoriska / valfria kurser
+2. Lägg till specialiseringar
+3. Möjlighet att lägga till extra kurser
+4. Inloggning med sparade inputs / databas
